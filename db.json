@@ -1,40 +1,31 @@
 {
-  "membros": [
+"posts": [
     {
-      "teamId": 1,
-      "name": "Diggo",
       "id": 1,
-      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+      "title": "Post 1"
     },
     {
-      "teamId": 1,
-      "name": "Rafa",
       "id": 2,
-      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+      "title": "Post 2"
     },
     {
-      "teamId": 1,
-      "name": "Deb",
       "id": 3,
-      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
-    },
-    {
-      "teamId": 2,
-      "name": "Alice",
-      "id": 1,
-      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
-    },
-    {
-      "teamId": 2,
-      "name": "Luna",
-      "id": 2,
-      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
-    },
-    {
-      "teamId": 2,
-      "name": "Mario",
-      "id": 3,
-      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
