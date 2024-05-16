@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "membros": [
     {
+      "teamId": 1,
+      "name": "Diggo",
       "id": 1,
-      "title": "hello"
+      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
