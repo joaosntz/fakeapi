@@ -3,32 +3,38 @@
     {
         "teamId": 1,
         "id": 1,
-        "title": "Post 1"
+        "name":"Diggo",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     },
     {
         "teamId": 1,
         "id": 2,
-        "title": "Post 2"
+        "name":"Rafa",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     },
     {
         "teamId": 1,
         "id": 3,
-        "title": "Post 2"
+        "name":"Deb",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     },
     {
         "teamId": 2,
         "id": 4,
-        "title": "Post 2"
+        "name":"Alice",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     },
     {
         "teamId": 2,
         "id": 5,
-        "title": "Post 2"
+        "name":"Luna",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     },
     {
         "teamId": 2,
         "id": 6,
-        "title": "Post 3"
+        "name":"Mario",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
     }
   ]
 }
