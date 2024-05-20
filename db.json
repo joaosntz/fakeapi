@@ -4,37 +4,43 @@
         "teamId": 1,
         "id": 1,
         "name": "Diggo",
-        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis.",
+        "area": "Prototipagem"
     },
     {
         "teamId": 1,
         "id": 2,
         "name":"Rafa",
-        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis.",
+        "area": "Prototipagem"
     },
     {
         "teamId": 1,
         "id": 3,
         "name":"Deb",
-        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis.",
+        "area": "Prototipagem"
     },
     {
         "teamId": 2,
         "id": 4,
         "name":"Alice",
-        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis.",
+        "area": "Programação"
     },
     {
         "teamId": 2,
         "id": 5,
         "name":"Luna",
-        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis.",
+        "area": "Programação"
     },
     {
         "teamId": 2,
         "id": 6,
         "name":"Mario",
-        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis."
+        "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam quibusdam atque ipsum ex eveniet reiciendis.",
+        "area": "Programação"
     }
   ]
 }
